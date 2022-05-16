@@ -5,6 +5,8 @@ m3_WiperControlSystem
 
 # Cpp check analysis: [![Cppcheck Analysis](https://github.com/Sravan4803/M3_Wiper_Control_System/actions/workflows/cppcheck_analysis.yml/badge.svg)](https://github.com/Sravan4803/M3_Wiper_Control_System/actions/workflows/cppcheck_analysis.yml)
 
+# Code Quality Score https://api.codiga.io/project/33583/score/svg
+
 #Outputs:
 
 1.user button and hold it for two seconds
