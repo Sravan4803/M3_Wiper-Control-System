@@ -5,9 +5,9 @@ m3_WiperControlSystem
 
 # Cpp check analysis: [![Cppcheck Analysis](https://github.com/Sravan4803/M3_Wiper_Control_System/actions/workflows/cppcheck_analysis.yml/badge.svg)](https://github.com/Sravan4803/M3_Wiper_Control_System/actions/workflows/cppcheck_analysis.yml)
 
-# Code Quality Score https://api.codiga.io/project/33583/score/svg
+# Code Quality Score ![Code Quality SCore](https://api.codiga.io/project/33583/score/svg)
 
-#Code Grade https://api.codiga.io/project/33583/status/svg
+# Code Grade ![Quality Grade](https://api.codiga.io/project/33583/status/svg)
 
 #Outputs:
 
