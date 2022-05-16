@@ -1,7 +1,9 @@
 m3_WiperControlSystem
 
 @ m3_WiperControlSystem
+# Build on linux [![Build-Linux](https://github.com/Sravan4803/M3_Wiper_Control_System/actions/workflows/Bulid_on_linux.yml/badge.svg)](https://github.com/Sravan4803/M3_Wiper_Control_System/actions/workflows/Bulid_on_linux.yml)
 
+# Cpp check analysis: [![Cppcheck Analysis](https://github.com/Sravan4803/M3_Wiper_Control_System/actions/workflows/cppcheck_analysis.yml/badge.svg)](https://github.com/Sravan4803/M3_Wiper_Control_System/actions/workflows/cppcheck_analysis.yml)
 
 #Outputs:
 
