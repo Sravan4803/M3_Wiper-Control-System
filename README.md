@@ -7,6 +7,8 @@ m3_WiperControlSystem
 
 # Code Quality Score https://api.codiga.io/project/33583/score/svg
 
+#Code Grade https://api.codiga.io/project/33583/status/svg
+
 #Outputs:
 
 1.user button and hold it for two seconds
